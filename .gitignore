@@ -1,0 +1,7 @@
+node_modules/
+
+layers/*
+!layers/readme.md
+
+render/*
+!render/readme.md
